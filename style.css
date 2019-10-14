@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: url('/images/lambo.jpg');
+    background-size: cover;
+    height: 80vh;
+
+    position: relative;
+    text-align: center;
+}
+.jumbo-text{position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+
+}
+.colonne-1{
+    background-image: url('/images/lambo.jpg')
+}
+.colonne-1{
+    background-image: url('/images/lambo.jpg')
+}
